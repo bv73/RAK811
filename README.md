@@ -1,5 +1,7 @@
 # RAK811 TrackerBoard without GPS module
 
-RAK811 source code for CooCox CoIDE
+RAK811 TrackerBoard source code for CooCox CoIDE.
+
+CooCox CoIDE & other tools Link: https://downloads.rakwireless.com/LoRa/RAK811-TrackerBoard/
 
 Check & change Commissioning.h for your application.
