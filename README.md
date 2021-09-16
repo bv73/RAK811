@@ -6,4 +6,4 @@ CooCox CoIDE & other tools Link: https://downloads.rakwireless.com/LoRa/RAK811-T
 
 Check & change Commissioning.h for your application.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VladimirBakum.RAK811&left_color=yellow&right_color=red)
+[![Visits Badge](https://badges.pufler.dev/visits/VladimirBakum/RAK811)](https://badges.pufler.dev)
